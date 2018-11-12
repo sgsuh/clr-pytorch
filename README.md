@@ -1,4 +1,4 @@
-# cls-pytorch
+# clr-pytorch
 
 Cyclical Learning Rates PyTorch Version
 
